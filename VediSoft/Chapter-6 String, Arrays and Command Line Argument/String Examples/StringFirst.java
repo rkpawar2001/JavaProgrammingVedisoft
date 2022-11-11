@@ -1,4 +1,5 @@
 // Write a program to accepts an RGB value from user and print parts of red, green and blue.
+
 import java.util.Scanner;
 class StringFirst {
 	public static void main(String args[]) {
