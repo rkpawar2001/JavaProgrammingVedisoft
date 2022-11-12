@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-class StringSecond {
+class Third {
     public static void main(String args[]) {
         String str = new String();
         Scanner in = new Scanner(System.in);
@@ -20,13 +20,14 @@ class StringSecond {
             }
             for (int i = 0; i < str.length(); i++) {
                 char c = str.charAt(i);
-                if (!(c >= 'A' && c <= 'Z' || c >= 'a' && c <= 'z')) {
-                    System.out.println("Error !! Special characters or digits found.");
+                if ((c >= 0 && c <= 47 || c >= 58 && c <= 127)) {
+                    System.out.println("Error !! Special characters or alphabets found.");
                     continue main;
                 }
             }
             break;
         }
+        System.out.println("Entered String " + str);
     }
 
 }
