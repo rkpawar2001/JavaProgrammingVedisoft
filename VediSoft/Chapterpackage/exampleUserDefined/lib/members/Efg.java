@@ -1,4 +1,4 @@
-package VediSoft.Chapterpackage.lib.members;
+package VediSoft.Chapterpackage.exampleUserDefined.lib.members;
 
 public class Efg {
     public Efg() {

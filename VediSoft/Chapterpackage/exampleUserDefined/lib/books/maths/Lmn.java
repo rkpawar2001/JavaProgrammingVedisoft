@@ -1,4 +1,4 @@
-package VediSoft.Chapterpackage.lib.books.maths;
+package VediSoft.Chapterpackage.exampleUserDefined.lib.books.maths;
 
 public class Lmn {
     public Lmn() {

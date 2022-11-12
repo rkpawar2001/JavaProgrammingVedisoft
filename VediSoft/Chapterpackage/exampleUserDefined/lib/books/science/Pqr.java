@@ -1,4 +1,4 @@
-package VediSoft.Chapterpackage.lib.books.science;
+package VediSoft.Chapterpackage.exampleUserDefined.lib.books.science;
 
 public class Pqr {
     public Pqr() {
