@@ -18,8 +18,7 @@ class Seventh {
         System.out.println("Names that contains he : ");
 
         for (int i = 0; i < names.length; i++) {
-            String s1 = new String("he");
-            boolean c = names[i].equalsIgnoreCase(s1);
+            boolean c = names[i].contains("he");
             if (c == true) {
                 System.out.println(names[i]);
             }
