@@ -13,7 +13,7 @@
   - [Others](#others)
   - [Oracle Java Certifications](#Oracle-Java-Certifications)
 
-                                             # Java SE Syllabus
+<h1 align="center">Java SE Syllabus</h1>                                             
                                              
 # Syntax                                             
 
