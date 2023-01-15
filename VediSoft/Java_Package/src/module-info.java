@@ -5,5 +5,5 @@
  * @author rkpaw
  *
  */
-module Java {
+module Java_Package {
 }
