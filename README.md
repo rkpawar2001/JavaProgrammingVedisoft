@@ -1,7 +1,7 @@
 <p align="center">
 
    <a align="center" href="https://www.hackerrank.com/ranjit_gohite">
-       <img height=85 width=200 src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png">
+<!--        <img height=85 width=200 src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png"> -->
    </a>
  <p/>
 
